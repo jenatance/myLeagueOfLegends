@@ -1,0 +1,161 @@
+Name,Title,Tags
+Aatrox,the Darkin Blade,"['Fighter', 'Tank']"
+Ahri,the Nine-Tailed Fox,"['Mage', 'Assassin']"
+Akali,the Rogue Assassin,['Assassin']
+Akshan,the Rogue Sentinel,"['Marksman', 'Assassin']"
+Alistar,the Minotaur,"['Tank', 'Support']"
+Amumu,the Sad Mummy,"['Tank', 'Mage']"
+Anivia,the Cryophoenix,"['Mage', 'Support']"
+Annie,the Dark Child,['Mage']
+Aphelios,the Weapon of the Faithful,['Marksman']
+Ashe,the Frost Archer,"['Marksman', 'Support']"
+AurelionSol,The Star Forger,['Mage']
+Azir,the Emperor of the Sands,"['Mage', 'Marksman']"
+Bard,the Wandering Caretaker,"['Support', 'Mage']"
+Belveth,the Empress of the Void,['Fighter']
+Blitzcrank,the Great Steam Golem,"['Tank', 'Fighter']"
+Brand,the Burning Vengeance,['Mage']
+Braum,the Heart of the Freljord,"['Support', 'Tank']"
+Caitlyn,the Sheriff of Piltover,['Marksman']
+Camille,the Steel Shadow,"['Fighter', 'Tank']"
+Cassiopeia,the Serpent's Embrace,['Mage']
+Chogath,the Terror of the Void,"['Tank', 'Mage']"
+Corki,the Daring Bombardier,['Marksman']
+Darius,the Hand of Noxus,"['Fighter', 'Tank']"
+Diana,Scorn of the Moon,"['Fighter', 'Mage']"
+DrMundo,the Madman of Zaun,"['Fighter', 'Tank']"
+Draven,the Glorious Executioner,['Marksman']
+Ekko,the Boy Who Shattered Time,"['Assassin', 'Fighter']"
+Elise,the Spider Queen,"['Mage', 'Fighter']"
+Evelynn,Agony's Embrace,"['Assassin', 'Mage']"
+Ezreal,the Prodigal Explorer,"['Marksman', 'Mage']"
+Fiddlesticks,the Ancient Fear,"['Mage', 'Support']"
+Fiora,the Grand Duelist,"['Fighter', 'Assassin']"
+Fizz,the Tidal Trickster,"['Assassin', 'Fighter']"
+Galio,the Colossus,"['Tank', 'Mage']"
+Gangplank,the Saltwater Scourge,['Fighter']
+Garen,The Might of Demacia,"['Fighter', 'Tank']"
+Gnar,the Missing Link,"['Fighter', 'Tank']"
+Gragas,the Rabble Rouser,"['Fighter', 'Mage']"
+Graves,the Outlaw,['Marksman']
+Gwen,The Hallowed Seamstress,"['Fighter', 'Assassin']"
+Hecarim,the Shadow of War,"['Fighter', 'Tank']"
+Heimerdinger,the Revered Inventor,"['Mage', 'Support']"
+Illaoi,the Kraken Priestess,"['Fighter', 'Tank']"
+Irelia,the Blade Dancer,"['Fighter', 'Assassin']"
+Ivern,the Green Father,"['Support', 'Mage']"
+Janna,the Storm's Fury,"['Support', 'Mage']"
+JarvanIV,the Exemplar of Demacia,"['Tank', 'Fighter']"
+Jax,Grandmaster at Arms,"['Fighter', 'Assassin']"
+Jayce,the Defender of Tomorrow,"['Fighter', 'Marksman']"
+Jhin,the Virtuoso,"['Marksman', 'Mage']"
+Jinx,the Loose Cannon,['Marksman']
+Kaisa,Daughter of the Void,['Marksman']
+Kalista,the Spear of Vengeance,['Marksman']
+Karma,the Enlightened One,"['Mage', 'Support']"
+Karthus,the Deathsinger,['Mage']
+Kassadin,the Void Walker,"['Assassin', 'Mage']"
+Katarina,the Sinister Blade,"['Assassin', 'Mage']"
+Kayle,the Righteous,"['Fighter', 'Support']"
+Kayn,the Shadow Reaper,"['Fighter', 'Assassin']"
+Kennen,the Heart of the Tempest,"['Mage', 'Marksman']"
+Khazix,the Voidreaver,['Assassin']
+Kindred,The Eternal Hunters,['Marksman']
+Kled,the Cantankerous Cavalier,"['Fighter', 'Tank']"
+KogMaw,the Mouth of the Abyss,"['Marksman', 'Mage']"
+Leblanc,the Deceiver,"['Assassin', 'Mage']"
+LeeSin,the Blind Monk,"['Fighter', 'Assassin']"
+Leona,the Radiant Dawn,"['Tank', 'Support']"
+Lillia,the Bashful Bloom,"['Fighter', 'Mage']"
+Lissandra,the Ice Witch,['Mage']
+Lucian,the Purifier,['Marksman']
+Lulu,the Fae Sorceress,"['Support', 'Mage']"
+Lux,the Lady of Luminosity,"['Mage', 'Support']"
+Malphite,Shard of the Monolith,"['Tank', 'Fighter']"
+Malzahar,the Prophet of the Void,"['Mage', 'Assassin']"
+Maokai,the Twisted Treant,"['Tank', 'Mage']"
+MasterYi,the Wuju Bladesman,"['Assassin', 'Fighter']"
+MissFortune,the Bounty Hunter,['Marksman']
+MonkeyKing,the Monkey King,"['Fighter', 'Tank']"
+Mordekaiser,the Iron Revenant,['Fighter']
+Morgana,the Fallen,"['Mage', 'Support']"
+Nami,the Tidecaller,"['Support', 'Mage']"
+Nasus,the Curator of the Sands,"['Fighter', 'Tank']"
+Nautilus,the Titan of the Depths,"['Tank', 'Support']"
+Neeko,the Curious Chameleon,"['Mage', 'Support']"
+Nidalee,the Bestial Huntress,"['Assassin', 'Mage']"
+Nocturne,the Eternal Nightmare,"['Assassin', 'Fighter']"
+Nunu,the Boy and His Yeti,"['Tank', 'Fighter']"
+Olaf,the Berserker,"['Fighter', 'Tank']"
+Orianna,the Lady of Clockwork,"['Mage', 'Support']"
+Ornn,The Fire below the Mountain,"['Tank', 'Fighter']"
+Pantheon,the Unbreakable Spear,"['Fighter', 'Assassin']"
+Poppy,Keeper of the Hammer,"['Tank', 'Fighter']"
+Pyke,the Bloodharbor Ripper,"['Support', 'Assassin']"
+Qiyana,Empress of the Elements,"['Assassin', 'Fighter']"
+Quinn,Demacia's Wings,"['Marksman', 'Assassin']"
+Rakan,The Charmer,['Support']
+Rammus,the Armordillo,"['Tank', 'Fighter']"
+RekSai,the Void Burrower,['Fighter']
+Rell,the Iron Maiden,"['Tank', 'Support']"
+Renata,the Chem-Baroness,"['Support', 'Mage']"
+Renekton,the Butcher of the Sands,"['Fighter', 'Tank']"
+Rengar,the Pridestalker,"['Assassin', 'Fighter']"
+Riven,the Exile,"['Fighter', 'Assassin']"
+Rumble,the Mechanized Menace,"['Fighter', 'Mage']"
+Ryze,the Rune Mage,"['Mage', 'Fighter']"
+Samira,the Desert Rose,['Marksman']
+Sejuani,Fury of the North,"['Tank', 'Fighter']"
+Senna,the Redeemer,"['Marksman', 'Support']"
+Seraphine,the Starry-Eyed Songstress,"['Mage', 'Support']"
+Sett,the Boss,"['Fighter', 'Tank']"
+Shaco,the Demon Jester,['Assassin']
+Shen,the Eye of Twilight,['Tank']
+Shyvana,the Half-Dragon,"['Fighter', 'Tank']"
+Singed,the Mad Chemist,"['Tank', 'Fighter']"
+Sion,The Undead Juggernaut,"['Tank', 'Fighter']"
+Sivir,the Battle Mistress,['Marksman']
+Skarner,the Crystal Vanguard,"['Fighter', 'Tank']"
+Sona,Maven of the Strings,"['Support', 'Mage']"
+Soraka,the Starchild,"['Support', 'Mage']"
+Swain,the Noxian Grand General,"['Mage', 'Fighter']"
+Sylas,the Unshackled,"['Mage', 'Assassin']"
+Syndra,the Dark Sovereign,['Mage']
+TahmKench,The River King,"['Support', 'Tank']"
+Taliyah,the Stoneweaver,"['Mage', 'Support']"
+Talon,the Blade's Shadow,['Assassin']
+Taric,the Shield of Valoran,"['Support', 'Fighter']"
+Teemo,the Swift Scout,"['Marksman', 'Assassin']"
+Thresh,the Chain Warden,"['Support', 'Fighter']"
+Tristana,the Yordle Gunner,"['Marksman', 'Assassin']"
+Trundle,the Troll King,"['Fighter', 'Tank']"
+Tryndamere,the Barbarian King,"['Fighter', 'Assassin']"
+TwistedFate,the Card Master,['Mage']
+Twitch,the Plague Rat,"['Marksman', 'Assassin']"
+Udyr,the Spirit Walker,"['Fighter', 'Tank']"
+Urgot,the Dreadnought,"['Fighter', 'Tank']"
+Varus,the Arrow of Retribution,"['Marksman', 'Mage']"
+Vayne,the Night Hunter,"['Marksman', 'Assassin']"
+Veigar,the Tiny Master of Evil,['Mage']
+Velkoz,the Eye of the Void,['Mage']
+Vex,the Gloomist,['Mage']
+Vi,the Piltover Enforcer,"['Fighter', 'Assassin']"
+Viego,The Ruined King,"['Assassin', 'Fighter']"
+Viktor,the Machine Herald,['Mage']
+Vladimir,the Crimson Reaper,['Mage']
+Volibear,the Relentless Storm,"['Fighter', 'Tank']"
+Warwick,the Uncaged Wrath of Zaun,"['Fighter', 'Tank']"
+Xayah,the Rebel,['Marksman']
+Xerath,the Magus Ascendant,['Mage']
+XinZhao,the Seneschal of Demacia,"['Fighter', 'Assassin']"
+Yasuo,the Unforgiven,"['Fighter', 'Assassin']"
+Yone,the Unforgotten,"['Assassin', 'Fighter']"
+Yorick,Shepherd of Souls,"['Fighter', 'Tank']"
+Yuumi,the Magical Cat,"['Support', 'Mage']"
+Zac,the Secret Weapon,"['Tank', 'Fighter']"
+Zed,the Master of Shadows,['Assassin']
+Zeri,The Spark of Zaun,['Marksman']
+Ziggs,the Hexplosives Expert,['Mage']
+Zilean,the Chronokeeper,"['Support', 'Mage']"
+Zoe,the Aspect of Twilight,"['Mage', 'Support']"
+Zyra,Rise of the Thorns,"['Mage', 'Support']"
